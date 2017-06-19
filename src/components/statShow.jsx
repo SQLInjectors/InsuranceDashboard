@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '../css/statShow.css';
 
 class Stats extends Component {
   constructor() {
